@@ -2,21 +2,21 @@
 
 Welcome to my github profile! 🥳
 
-I'm a Front-end / Back-end web developer from Colombia, passionate about learning more every day.
+I'm a Front-end / Back-end web developer from Barranquilla - Colombia, passionate about learning more every day.
 
 ## ⚡️ Skills
-✔ <img src="./images/html5.png" width="14"> HTML5 <br>
-✔ <img src="./images/css.jpg" width="12"> CSS3 <br>
-✔ <img src="./images/js.png" width="12"> JavaScript <br>
-✔ <img src="./images/php.png" width="14"> PHP <br>
-✔ <img src="./images/vue.png" width="12"> VueJS <br>
-✔ <img src="./images/angular.svg" width="12"> Angular <br>
-✔ <img src="./images/node-js.png" width="12"> NodeJS <br>
+✔ <img src="./images/html5.png" width="14"> HTML5<br>
+✔ <img src="./images/css.jpg" width="12"> CSS3<br>
+✔ <img src="./images/js.png" width="12"> JavaScript<br>
+✔ <img src="./images/php.png" width="14"> PHP7<br>
+✔ <img src="./images/node-js.png" width="12"> NodeJS<br>
 
 ## 📚 Studying
-🔹 <img src="./images/react.png" width="12"> VueJS <br>
-🔹 <img src="./images/swift.png" width="12"> Angular <br>
-🔹 <img src="./images/js.png" width="12"> TypeScript <br>
+🔹 <img src="./images/vue.png" width="14"> VueJS<br>
+🔹 <img src="./images/vuex.png" width="12"> Vuex<br>
+🔹 <img src="./images/angular.svg" width="12"> Angular<br>
+🔹 <img src="./images/ionic.png" width="13"> Ionic<br>
+🔹 <img src="./images/typescript.svg" width="12"> TypeScript<br>
 
 ## ❤ I really enjoy
 💻 Coding <br>

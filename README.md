@@ -5,18 +5,21 @@ Welcome to my github profile! 🥳
 I'm a Front-end / Back-end web developer from Barranquilla - Colombia, passionate about learning more every day.
 
 ## ⚡️ Skills
-✔ <img src="./images/html5.png" width="14"> HTML5<br>
-✔ <img src="./images/css.jpg" width="12"> CSS3<br>
-✔ <img src="./images/js.png" width="12"> JavaScript<br>
-✔ <img src="./images/php.png" width="14"> PHP7<br>
-✔ <img src="./images/node-js.png" width="12"> NodeJS<br>
+✔ HTML5<br>
+✔ CSS3<br>
+✔ JavaScript<br>
+✔ PHP7<br>
+✔ NodeJS<br>
+✔ MongoDB<br>
+✔ MySQL<br>
+✔ SQL Server<br>
 
 ## 📚 Studying
-🔹 <img src="./images/vue.png" width="14"> VueJS<br>
-🔹 <img src="./images/vuex.png" width="12"> Vuex<br>
-🔹 <img src="./images/angular.svg" width="12"> Angular<br>
-🔹 <img src="./images/ionic.png" width="13"> Ionic<br>
-🔹 <img src="./images/typescript.svg" width="12"> TypeScript<br>
+🔹 VueJS<br>
+🔹 Vuex<br>
+🔹 Angular<br>
+🔹 Ionic<br>
+🔹 TypeScript<br>
 
 ## ❤ I really enjoy
 💻 Coding <br>

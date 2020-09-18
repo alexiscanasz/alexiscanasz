@@ -8,6 +8,8 @@ I'm a Front-end / Back-end web developer from Barranquilla - Colombia, passionat
 ✔ HTML5<br>
 ✔ CSS3<br>
 ✔ JavaScript<br>
+✔ Angular<br>
+✔ TypeScript<br>
 ✔ PHP7<br>
 ✔ NodeJS<br>
 ✔ MongoDB<br>
@@ -17,14 +19,14 @@ I'm a Front-end / Back-end web developer from Barranquilla - Colombia, passionat
 ## 📚 Studying
 🔹 VueJS<br>
 🔹 Vuex<br>
-🔹 Angular<br>
 🔹 Ionic<br>
-🔹 TypeScript<br>
+🔹 Framework7<br>
+🔹 React<br>
 
 ## ❤ I really enjoy
 💻 Coding <br>
-🎮 Play video games <br>
 📚 Study <br>
+🎮 Play video games <br>
 
 
 

@@ -1,4 +1,4 @@
-## Hi there, I'm Alexis 👋
+# Hi there, I'm Alexis 👋
 Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranquilla, Colombia. passionate about learning more every day.
 
 

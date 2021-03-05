@@ -14,27 +14,29 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 
 ### 📌 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/html5.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/css3.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/sass.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/javascript.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/typescript.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/angular.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/vue-dot-js.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/react.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/graphql.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/express.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/node-dot-js.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/npm.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/php.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/microsoftsqlserver.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/mysql.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/mongodb.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/git.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/github.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linux.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/windowsterminal.svg" />
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0A0908?style=for-the-badge&logo=visual-studio-code&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/HTML5-0A0908?style=for-the-badge&logo=html5&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/CSS3-0A0908?style=for-the-badge&logo=css3&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/SASS-0A0908?style=for-the-badge&logo=sass&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/BOOTSTRAP-0A0908?style=for-the-badge&logo=bootstrap&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/FONTAWESOME-0A0908?style=for-the-badge&logo=font-awesome&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/JAVASCRIPT-0A0908?style=for-the-badge&logo=javascript&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/TYPESCRIPT-0A0908?style=for-the-badge&logo=typescript&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/ANGULAR-0A0908?style=for-the-badge&logo=angular&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/VUE-0A0908?style=for-the-badge&logo=vue.js&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/REACT-0A0908?style=for-the-badge&logo=react&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/GRAPHQL-0A0908?style=for-the-badge&logo=graphql&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/JQUERY-0A0908?style=for-the-badge&logo=jquery&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/PHP-0A0908?style=for-the-badge&logo=php&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/NODE.JS-0A0908?style=for-the-badge&logo=node.js&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/EXPRESS.JS-0A0908?style=for-the-badge&logo=express&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/MYSQL-0A0908?style=for-the-badge&logo=mysql&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/SQL%20SERVER-0A0908?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/MONGODB-0A0908?style=for-the-badge&logo=mongodb&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/GIT-0A0908?style=for-the-badge&logo=git&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/GITHUB-0A0908?style=for-the-badge&logo=github&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/LINUX-0A0908?style=for-the-badge&logo=linux&logoColor=FFF&logoWidth=20&labelColor=0A0908)
+![Visual Studio Code](https://img.shields.io/badge/TERMINAL-0A0908?style=for-the-badge&logo=windows-terminal&logoColor=FFF&logoWidth=20&labelColor=0A0908)
 
 <br />
 <br />

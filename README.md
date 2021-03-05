@@ -38,14 +38,6 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 ![Visual Studio Code](https://img.shields.io/badge/LINUX-0A0908?style=for-the-badge&logo=linux&logoColor=FFF&logoWidth=20&labelColor=0A0908)
 ![Visual Studio Code](https://img.shields.io/badge/TERMINAL-0A0908?style=for-the-badge&logo=windows-terminal&logoColor=FFF&logoWidth=20&labelColor=0A0908)
 
-<br />
-<br />
-
-### 📌 My GitHub Stats
-
-<img style="height: 150px;" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=true" />
-<img style="height: 150px;" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-
 ### 📌 Connect with me
 
 [<img alt="" width="22px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 0 2.5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -62,6 +54,14 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [More blog posts here](https://alexiscanas.com/blog)
+
+---
+
+
+### 📌 My GitHub Stats
+
+<img align="left" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=true" />
+<img align="left" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://alexiscanas.com
 [twitter]: https://twitter.com/alexiscanasz

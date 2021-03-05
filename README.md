@@ -3,8 +3,8 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 
 
 [![Website](https://img.shields.io/website?label=alexiscanas.com&style=for-the-badge&url=https%3A%2F%2Falexiscanas.com)](https://alexiscanas.com)
-[![Website](https://img.shields.io/website?label=my%20portfolio&style=for-the-badge&url=https%3A%2F%2Falexiscanasz.github.io/portfolio)](https://alexiscanasz.github.io/portfolio)
-[![Website](https://img.shields.io/website?label=my%20blog&style=for-the-badge&url=https%3A%2F%2Falexiscanas.com/blog)](https://alexiscanas.com/blog)
+[![Portfolio](https://img.shields.io/website?label=my%20portfolio&style=for-the-badge&url=https%3A%2F%2Falexiscanasz.github.io/portfolio)](https://alexiscanasz.github.io/portfolio)
+[![Blog](https://img.shields.io/website?label=my%20blog&style=for-the-badge&url=https%3A%2F%2Falexiscanas.com/blog)](https://alexiscanas.com/blog)
 
 ### 📌 I'm a Longlife Learning Developer
 
@@ -43,10 +43,10 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 
 ### 📌 Connect with me
 
-[<img alt="" width="22px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 0 2.5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="" width="22px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 0 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="" width="22px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 0 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="" width="22px" style="filter: invert(100%); background-color: #f5f6f7; padding: 5px; border-radius: 5px; margin: 0 2.5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img src="https://img.shields.io/badge/-Website-0A0908?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiIHZpZXdCb3g9IjAgMCA4IDgiPgogIDxwYXRoIGQ9Ik00IDBjLTIuMjEgMC00IDEuNzktNCA0czEuNzkgNCA0IDQgNC0xLjc5IDQtNC0xLjc5LTQtNC00em0wIDFjLjMzIDAgLjY0LjA5Ljk0LjE5LS4yMS4yLS40NS4zOC0uNDEuNTYuMDQuMTguNjkuMTMuNjkuNSAwIC4yNy0uNDIuMzUtLjEzLjY2LjM1LjM1LS42NC45OC0uNjYgMS40NC0uMDMuODMuODQuOTcgMS41My45Ny40MiAwIC41My4yLjUuNDQtLjU0Ljc3LTEuNDYgMS4yNS0yLjQ3IDEuMjUtLjM4IDAtLjczLS4wOS0xLjA2LS4yMi4yMi0uNDQtLjI4LTEuMzEtLjc1LTEuNTktLjIzLS4yMy0uNzItLjE0LTEtLjI1LS4wOS0uMjctLjE4LS41NC0uMTktLjg0LjAzLS4wNS4wOC0uMDkuMTYtLjA5LjE5IDAgLjQ1LjM4LjU5LjM0LjE4LS4wNC0uNzQtMS4zMS0uMzEtMS41Ni4yLS4xMi42LjM5LjQ3LS4xNi0uMTItLjUxLjM2LS4yOC42Ni0uNDEuMjYtLjExLjQ1LS40MS4xMy0uNTktLjA2LS4wMy0uMTMtLjEtLjIyLS4xOS40NS0uMjcuOTctLjQ0IDEuNTMtLjQ0em0yLjMxIDEuMDljLjE4LjIyLjMyLjQ2LjQ0LjcyIDAgLjAxIDAgLjAyIDAgLjAzLS4wNC4wNy0uMTEuMTEtLjIyLjIyLS4yOC4yOC0uMzItLjIxLS40NC0uMzEtLjEzLS4xMi0uNi4wMi0uNjYtLjEzLS4wNy0uMTguNS0uNDIuODgtLjUzeiIKICAvPgo8L3N2Zz4=&logoColor=FFF&logoWidth=20&labelColor=FFF"/>][website]
+[<img src="https://img.shields.io/badge/-LinkedIn-0A0908?style=for-the-badge&logo=linkedin&logoColor=000&logoWidth=20&labelColor=FFF"/>][linkedin]
+[<img src="https://img.shields.io/badge/-Instagram-0A0908?style=for-the-badge&logo=instagram&logoColor=000&logoWidth=20&labelColor=FFF"/>][instagram]
+[<img src="https://img.shields.io/badge/-Twitter-0A0908?style=for-the-badge&logo=twitter&logoColor=000&logoWidth=20&labelColor=FFF"/>][twitter]
 
 ---
 

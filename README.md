@@ -60,9 +60,8 @@ Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranq
 
 ### 📌 My GitHub Stats
 
-<img align="left" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=true" />
-<br />
-<img align="left" alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=true" />
+<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://alexiscanas.com
 [twitter]: https://twitter.com/alexiscanasz

@@ -1,6 +1,5 @@
 # Hi there, I'm Alexis 👋
-Welcome to my GitHub profile!, I'm a Front-end / Back-end developer from Barranquilla, Colombia. passionate about learning more every day.
-
+Welcome to my GitHub profile!, I'm a developer from Barranquilla, Colombia. passionate about learning more every day.
 
 [![Website](https://img.shields.io/website?label=alexiscanas.com&style=for-the-badge&url=https%3A%2F%2Falexiscanas.com&labelColor=0A0908)](https://alexiscanas.com)
 [![Portfolio](https://img.shields.io/website?label=my%20portfolio&style=for-the-badge&url=https%3A%2F%2Falexiscanasz.github.io/portfolio&labelColor=0A0908)](https://alexiscanasz.github.io/portfolio)

@@ -62,8 +62,8 @@ Welcome to my GitHub profile!, I'm a developer from Barranquilla, Colombia. pass
 
 ### 📌 My GitHub Stats
 
-<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=true" />
-<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexisCanasZ&count_private=true&theme=dark&show_icons=true&hide=stars,issues&hide_border=trues" />
+<img alt="Alexis Cañas GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCanasZ&layout=compact&count_private=true&theme=dark&show_icons=true&hide_border=trues" />
 
 [website]: https://alexiscanas.com
 [twitter]: https://twitter.com/alexiscanasz

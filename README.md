@@ -1,7 +1,7 @@
 # Hi, I'm Alexis Cañas 👋
 
 Sr Frontend Developer (Angular) & Ssr Mobile Developer (Flutter)  
-📍 Barranquilla, Colombia
+📍 Colombia
 
 💻 Focused on building maintainable, scalable user interfaces and cross-platform mobile applications.  
 📚 Strong interest in architecture, performance, and continuous learning.
@@ -13,7 +13,7 @@ Sr Frontend Developer (Angular) & Ssr Mobile Developer (Flutter)
 
 ---
 
-### 🛠️ Core Technologies
+### 🛠️ Technologies
 
 ![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=0A0908)
 ![Flutter](https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=0A0908)
